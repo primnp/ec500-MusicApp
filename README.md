@@ -14,6 +14,8 @@ This project was created with Unity 2020.3.5f1 and Vuforia Engine 9.8
   - For more information on ImageTarget, refer to: https://library.vuforia.com/features/images/image-targets.html
 8. Build & Run your project in the desired environment (this project was built for iOS). Android Studio may need further set up.
 
+NOTE: piano sounds were from [Freesound](https://freesound.org/)
+
 ## Usage
 1. Users can navigate to the application, enable camera, place ImageTarget where you want to view the AR 3D piano (In this demo, this 
 [ImageTarget](https://github.com/primnp/ec500-MusicApp/blob/main/piano.jpg) was used. ImageTarget can be changed, refer to *Set up #6*)
