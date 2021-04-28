@@ -5,10 +5,10 @@ Final project for EC500 A2 spring 2021
 This project was created with Unity 2020.3.5f1 and Vuforia Engine 9.8
 
 ## Set up
-1. Follow this link to download Unity: https://unity3d.com/get-unity/download
-2. Follow this link to add Vuforia to your Unity project: https://developer.vuforia.com/downloads/sdk
+1. Follow [this link](https://unity3d.com/get-unity/download) to download Unity
+2. Follow [this link](https://developer.vuforia.com/downloads/sdk) to add Vuforia to your Unity project
 3. Add ARcamera and ImageTarget by navigating to GameObject -> Vuforia Engine -> ARCamera / ImageTarget
-4. To use Vuforia engine, create a Vuforia Developer account then go to developer (https://developer.vuforia.com/license-manager) to create a license key for your project.
+4. To use Vuforia engine, create a Vuforia Developer account then go to [Vuforia developer](https://developer.vuforia.com/license-manager) to create a license key for your project.
 5. Add license key to your project by navigating to ARCamera -> Open Vuforia Engine Configuration -> App License Key
 6. To change ImageTarget, create a new database from Vuforia Developer -> Target Manager (https://developer.vuforia.com/targetmanager). Then add a new single image target (whichever image you desired for Vuforia engine to detect and shows the AR 3D object)
   - For more information on ImageTarget, refer to: https://library.vuforia.com/features/images/image-targets.html
