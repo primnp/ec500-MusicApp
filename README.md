@@ -15,7 +15,7 @@ This project was created with Unity 2020.3.5f1 and Vuforia Engine 9.8
 8. Build & Run your project in the desired environment (this project was built for iOS). Android Studio may need further set up.
 
 ## Usage
-1. Users can navigate to the application, enable camera, place ImageTarget where you want to view the AR 3D piano (ImageTarget can be changed, refer to *Set up #6*)
+1. Users can navigate to the application, enable camera, place ImageTarget where you want to view the AR 3D piano (In this demo, this ImageTarget was used. ImageTarget can be changed, refer to *Set up #6*)
 2. Play the AR piano by clicking on the application screen.
 
 Click below to view video demonstration of the AR piano application:
