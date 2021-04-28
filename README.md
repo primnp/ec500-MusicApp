@@ -24,4 +24,9 @@ Please refer to video below to view demonstration of the assignment. Click to vi
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/3rYEJfa-v64/0.jpg)](http://www.youtube.com/watch?v=3rYEJfa-v64 "EC500 Final Project")
 
 
+## Improvements
+* Create animation when user press a piano key
+* Possibly create add more piano keys to the app
+
+
 
