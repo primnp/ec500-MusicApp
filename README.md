@@ -26,7 +26,7 @@ Please refer to video below to view demonstration of the assignment. Click to vi
 
 ## Improvements
 * Create animation when user press a piano key
-* Possibly create add more piano keys to the app
+* Possibly add more piano keys to the app
 
 
 
